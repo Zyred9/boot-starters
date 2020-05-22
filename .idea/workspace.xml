@@ -12,6 +12,10 @@
   <component name="ChangeListManager">
     <list default="true" id="8cb75ae4-eac3-4f9d-a5a4-dc848ba2229d" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../mysql/mysqlspringbootstarter/src/main/resources/applocation.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/enable-common/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/enable-common/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/enable-common/src/main/test/java/org/example/MySQLTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/enable-common/src/main/test/java/org/example/MySQLTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql-starter/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mysql-starter/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql-starter/src/main/resources/META-INF/spring.factories" beforeDir="false" afterPath="$PROJECT_DIR$/mysql-starter/src/main/resources/META-INF/spring.factories" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +30,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -60,7 +64,7 @@
       <recent name="$PROJECT_DIR$/mysql-starter/src/main/resources" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MySQLTest.testMyStarter">
+  <component name="RunManager" selected="JUnit.MySQLTest.testMyJedis">
     <configuration name="CommonAutoConfigureApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.app.CommonAutoConfigureApplication" />
       <module name="enable-common" />
@@ -70,6 +74,22 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MySQLTest.testMyJedis" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="enable-common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.MySQLTest" />
+      <option name="METHOD_NAME" value="testMyJedis" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -92,6 +112,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MySQLTest.testMyJedis" />
         <item itemvalue="JUnit.MySQLTest.testMyStarter" />
         <item itemvalue="Application.CommonAutoConfigureApplication" />
       </list>
@@ -131,10 +152,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="320" y="5" key="#Project_Structure/0.0.1920.1080@0.0.1920.1080" timestamp="1590127361021" />
-    <state x="726" y="141" key="#com.intellij.ide.util.MemberChooser" timestamp="1590127756371">
+    <state x="726" y="141" key="#com.intellij.ide.util.MemberChooser" timestamp="1590139517903">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="726" y="141" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1590127756371" />
+    <state x="726" y="141" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1590139517903" />
     <state x="495" y="181" key="DBNavigator.ProjectSettingsDialog" timestamp="1590128360383">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

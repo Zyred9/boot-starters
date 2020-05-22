@@ -3,3 +3,6 @@ mysql:
   url: jdbc:mysql://localhost:3306/cloud_user?useSSL=false
   user: root
   password: root
+jedis:
+  url: 182.92.124.151
+  port: 6379

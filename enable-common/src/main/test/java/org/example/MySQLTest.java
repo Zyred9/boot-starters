@@ -6,6 +6,7 @@ import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
+import redis.clients.jedis.Jedis;
 
 import javax.annotation.Resource;
 import java.sql.Connection;
@@ -29,6 +30,8 @@ public class MySQLTest {
     @Resource(name = "mysqlConnection")
     private Connection connection;
 
+    @Resource(name = "myJedisClient")
+    private Jedis jedis;
 
 
     @Test
@@ -51,6 +54,11 @@ public class MySQLTest {
         connection.close();
 //        id:1259027228398850048 电话:18325011212 邮箱:18325011211@163.com
 //        id:1259067349122813952 电话:18325011211 邮箱:18325011211@163.com
+    }
+
+    @Test
+    public void testMyJedis(){
+        System.out.println(jedis.get("1"));
     }
 
 }
