@@ -5,7 +5,12 @@
 ### `mysql-starter` : mysql 启动器
 
 ## `mysql-starter`
-mysql-connector-java 5.1.48版本
-jedis 3.3.0版本
+
+
+##### 版本信息:
+###### spring-boot-parent       2.3.0.RELEASE
+###### jedis                    3.3.0
+###### mysql-connector-java     5.1.48
+###### lombok                   1.18.12
 
 
