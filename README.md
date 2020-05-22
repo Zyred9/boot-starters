@@ -4,8 +4,6 @@
 ### `enable-common` : 公共测试项目
 ### `mysql-starter` : mysql 启动器
 
-## `mysql-starter`
-
 
 ##### 版本信息:
 ###### spring-boot-parent       2.3.0.RELEASE
