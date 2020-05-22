@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8cb75ae4-eac3-4f9d-a5a4-dc848ba2229d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../mysql/mysqlspringbootstarter/src/main/resources/applocation.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/opt/maven" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cFbGX1r4KoX5pWSfn2D2hcwVGw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mysql/mysqlspringboot/pom.xml" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mysql-starter/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MySQLTest.testMyStarter">
+    <configuration name="CommonAutoConfigureApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.app.CommonAutoConfigureApplication" />
+      <module name="enable-common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MySQLTest.testMyStarter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="enable-common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.MySQLTest" />
+      <option name="METHOD_NAME" value="testMyStarter" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MySQLTest.testMyStarter" />
+        <item itemvalue="Application.CommonAutoConfigureApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8cb75ae4-eac3-4f9d-a5a4-dc848ba2229d" name="Default Changelist" comment="" />
+      <created>1590127192133</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590127192133</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="441" y="41" key="#CommonAutoConfigureApplication" timestamp="1590128684140">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="441" y="41" key="#CommonAutoConfigureApplication/0.0.1920.1080@0.0.1920.1080" timestamp="1590128684140" />
+    <state x="320" y="5" key="#Project_Structure" timestamp="1590127361021">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="320" y="5" key="#Project_Structure/0.0.1920.1080@0.0.1920.1080" timestamp="1590127361021" />
+    <state x="726" y="141" key="#com.intellij.ide.util.MemberChooser" timestamp="1590127756371">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="726" y="141" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1590127756371" />
+    <state x="495" y="181" key="DBNavigator.ProjectSettingsDialog" timestamp="1590128360383">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="495" y="181" key="DBNavigator.ProjectSettingsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1590128360383" />
+    <state x="690" y="164" key="FileChooserDialogImpl" timestamp="1590130487142">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="690" y="164" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1590130487142" />
+    <state width="1862" height="217" key="GridCell.Tab.0.bottom" timestamp="1590134433256">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1862" height="217" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1590134433256" />
+    <state width="1862" height="217" key="GridCell.Tab.0.center" timestamp="1590134433256">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1862" height="217" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1590134433256" />
+    <state width="1862" height="217" key="GridCell.Tab.0.left" timestamp="1590134433256">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1862" height="217" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1590134433256" />
+    <state width="1862" height="217" key="GridCell.Tab.0.right" timestamp="1590134433256">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1862" height="217" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1590134433256" />
+    <state width="1862" height="303" key="GridCell.Tab.1.bottom" timestamp="1590134075822">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1862" height="303" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1590134075822" />
+    <state width="1862" height="303" key="GridCell.Tab.1.center" timestamp="1590134075822">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1862" height="303" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1590134075822" />
+    <state width="1862" height="303" key="GridCell.Tab.1.left" timestamp="1590134075822">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1862" height="303" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1590134075822" />
+    <state width="1862" height="303" key="GridCell.Tab.1.right" timestamp="1590134075822">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1862" height="303" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1590134075822" />
+    <state x="374" y="11" width="1181" height="925" key="SettingsEditor" timestamp="1590130095122">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="374" y="11" width="1181" height="925" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1590130095122" />
+    <state x="465" y="57" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1590134118050">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="465" y="57" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1590134118050" />
+    <state x="0" y="166" key="new project wizard" timestamp="1590127346293">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="0" y="166" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1590127346293" />
+    <state x="540" y="238" key="run.anything.popup" timestamp="1590131914600">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="540" y="238" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1590131914600" />
+  </component>
+</project>
